@@ -1,0 +1,14 @@
+D:\DSR\DSR-DataAccess\bin\Debug\net6.0\DSR-DataAccess.deps.json
+D:\DSR\DSR-DataAccess\bin\Debug\net6.0\DSR-DataAccess.runtimeconfig.json
+D:\DSR\DSR-DataAccess\bin\Debug\net6.0\DSR-DataAccess.dll
+D:\DSR\DSR-DataAccess\bin\Debug\net6.0\DSR-DataAccess.pdb
+D:\DSR\DSR-DataAccess\obj\Debug\net6.0\DSR-DataAccess.csproj.AssemblyReference.cache
+D:\DSR\DSR-DataAccess\obj\Debug\net6.0\DSR-DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSR\DSR-DataAccess\obj\Debug\net6.0\DSR-DataAccess.AssemblyInfoInputs.cache
+D:\DSR\DSR-DataAccess\obj\Debug\net6.0\DSR-DataAccess.AssemblyInfo.cs
+D:\DSR\DSR-DataAccess\obj\Debug\net6.0\DSR-DataAccess.csproj.CoreCompileInputs.cache
+D:\DSR\DSR-DataAccess\obj\Debug\net6.0\DSR-DataAccess.dll
+D:\DSR\DSR-DataAccess\obj\Debug\net6.0\refint\DSR-DataAccess.dll
+D:\DSR\DSR-DataAccess\obj\Debug\net6.0\DSR-DataAccess.pdb
+D:\DSR\DSR-DataAccess\obj\Debug\net6.0\DSR-DataAccess.genruntimeconfig.cache
+D:\DSR\DSR-DataAccess\obj\Debug\net6.0\ref\DSR-DataAccess.dll
